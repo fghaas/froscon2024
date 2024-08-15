@@ -1,3 +1,12 @@
+<!-- .slide: data-background-image="images/fernfusion.png" data-background-size="contain" -->
+# Fernfusion <!-- .element class="hidden" -->
+
+<!-- Note -->
+Kommen wir nun zum Thema Photovoltaik, oder (wie Kris Köhntopp sie nennt) Fernfusion.
+
+Bildquelle: <https://mastodon.social/@isotopp@chaos.social/112900022550963030>, Kristian Köhntopp ([WTFPL](http://www.wtfpl.net/))
+
+
 # Was ist eine Photovoltaik-Anlage?
 
 <!-- Note -->
