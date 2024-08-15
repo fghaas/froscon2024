@@ -1,3 +1,12 @@
+<!-- .slide: data-background-image="images/fernfusion.png" data-background-size="contain" -->
+# Fernfusion <!-- .element class="hidden" -->
+
+<!-- Note -->
+Kommen wir nun zum Thema Photovoltaik, oder (wie Kris Köhntopp sie nennt) Fernfusion.
+
+Bildquelle: <https://mastodon.social/@isotopp@chaos.social/112900022550963030>, Kristian Köhntopp ([WTFPL](http://www.wtfpl.net/))
+
+
 # Was ist eine Photovoltaik-Anlage?
 
 <!-- Note -->
@@ -5,7 +14,7 @@ Eine Photovoltaik-Anlage (PV-Anlage) macht aus Licht (Sonnenlicht) Strom.
 Das funktioniert so, dass Licht auf Solarzellen (Photodioden, eine Art Halbleiter) fällt, die zu großen Paneelen zusammengefügt sind.
 
 Wenn Licht auf die Solarzelle fällt, erzeugt sie eine kleine Menge Gleichstrom.
-Und weil ein Solarpaneel ganz viele Solarzellen enthält, die alle in Serie geschaltet sind, produzieren die alle gemeinsam eine ganz ordentliche Menge Gleichstrom (so ca. 50 Volt pro Modul).
+Und weil ein Solarpaneel ganz viele Solarzellen enthält, die alle in Serie geschaltet sind, produzieren die alle gemeinsam eine ganz ordentliche Menge Gleichstrom.
 
 
 <!-- .slide: data-background-image="images/wechselrichter.jpg" data-background-size="contain" -->
