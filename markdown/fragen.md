@@ -37,6 +37,8 @@ Auch Regengeräusch ist lauter als die Wärmepumpe.
 
 Das Geräusch ist auch sehr gleichmäßig und niedrigfrequent (etwa so wie rosa Rauschen).
 
+Zum Vergleich: mein Gefrierschrank hat 39 dB(A).
+
 Effizienz: Monoblock-Wärmepumpen können (weil das gesamte Kühlmittel im Freien zirkuliert) brennbare Kühlmittel verwenden, die — nach Aussage unseres Installateurs — effizienter sind als die nicht-brennbaren, die in Split-Geräten eingesetzt werden dürfen.
 
 
