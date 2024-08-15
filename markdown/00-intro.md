@@ -21,8 +21,8 @@ Dieser Vortrag ist KI-frei; er enthält ausschließlich biologische menschliche 
 ## Navigation
 
 Funktioniert mit den Pfeiltasten, mit Klick auf die Steuersymbole, oder einfach mit der Leertaste.
-Taste `M` oder Klick auf ☰ öffnet das Menü mit allen Slides.
-=======
+
+Die Taste `M` oder Klick auf ☰ öffnet das Menü mit allen Slides.
 
 ## Lizenz
 
